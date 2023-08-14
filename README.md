@@ -1,10 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">Hi, I am Rohit Ramtirth, from Pune, India,</h2>
 
@@ -26,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
 ###
