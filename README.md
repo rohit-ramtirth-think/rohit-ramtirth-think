@@ -1,11 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-
 <h2 align="left">Hi, I am Rohit Ramtirth, from Pune, India,</h2>
 
 ###
 
-<p align="left">I'm 🐍 ☕️ 💻  passionate about building 🚀 innovative and user-friendly software. I have a strong background in programming languages, such as Python, Java, and C++. I'm also proficient in using Git and GitHub.<br><br>I'm currently looking for a new opportunity where I can use my skills and experience to make a real impact on the world. I'm excited about working on projects that use technology to solve 🌍 real-world problems.</p>
+<p align="left">I'm 🐍 ☕️ 💻  passionate about building 🚀 innovative and user-friendly software. I have a strong background in programming languages, such as React-Native, React JS, JavaScript, and TypeScript. I'm also proficient in using Git and GitHub.<br><br>I'm currently looking for a new opportunity where I can use my skills and experience to make a real impact on the world. I'm excited about working on projects that use technology to solve 🌍 real-world problems.</p>
 
 ###
 
